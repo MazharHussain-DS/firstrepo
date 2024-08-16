@@ -1,5 +1,6 @@
 print("Hello , world")
 print("My name is mazhar ")
+print("right now i am learning github")
 print(15/5*5+5-5)
 a = "mazhar"
 print("Before uppercase:",a)
