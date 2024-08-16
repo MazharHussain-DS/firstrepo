@@ -1,0 +1,10 @@
+print("Hello , world")
+print("My name is mazhar ")
+print(15/5*5+5-5)
+a = "mazhar"
+print("Before uppercase:",a)
+b = a.upper()
+print("After uppercase:", b)
+print(4+4-4)
+print("I am learning python chilla course from codanics")
+print("Today is tuesday")
